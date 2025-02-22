@@ -1,11 +1,8 @@
-# Markdown Files
+# Definisi Sistem Persamaan Linier.
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+Sistem persamaan linier adalah kumpulan dari dua atau lebih persamaan linier yang memiliki variabel yang sama. Persamaan linier sendiri merupakan persamaan dengan variabel berpangkat satu dan tidak mengandung perkalian antara variabel. Bentuk umum dari sistem persamaan linier dengan dua variabel adalah:
 
-## What is MyST?
+## What is MyST
 
 MyST stands for "Markedly Structured Text". It
 is a slight variation on a flavor of markdown called "CommonMark" markdown,
